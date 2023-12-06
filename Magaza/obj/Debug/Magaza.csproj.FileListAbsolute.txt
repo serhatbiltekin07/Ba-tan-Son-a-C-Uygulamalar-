@@ -1,0 +1,7 @@
+C:\Users\Yasemin\Desktop\Magaza\bin\Debug\Magaza.exe.config
+C:\Users\Yasemin\Desktop\Magaza\bin\Debug\Magaza.exe
+C:\Users\Yasemin\Desktop\Magaza\bin\Debug\Magaza.pdb
+C:\Users\Yasemin\Desktop\Magaza\obj\Debug\Magaza.csproj.AssemblyReference.cache
+C:\Users\Yasemin\Desktop\Magaza\obj\Debug\Magaza.csproj.CoreCompileInputs.cache
+C:\Users\Yasemin\Desktop\Magaza\obj\Debug\Magaza.exe
+C:\Users\Yasemin\Desktop\Magaza\obj\Debug\Magaza.pdb

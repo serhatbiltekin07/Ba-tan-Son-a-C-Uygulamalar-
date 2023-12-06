@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\bin\Debug\Uygulama4_.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\bin\Debug\Uygulama4_.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\bin\Debug\Uygulama4_.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\obj\Debug\Uygulama4_.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\obj\Debug\Uygulama4_.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\obj\Debug\Uygulama4_.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama4_\Uygulama4_\obj\Debug\Uygulama4_.pdb

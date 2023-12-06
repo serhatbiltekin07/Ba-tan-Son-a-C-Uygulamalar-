@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\bin\Debug\Uygulama2_Polymorphizm_Abstract.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\bin\Debug\Uygulama2_Polymorphizm_Abstract.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\bin\Debug\Uygulama2_Polymorphizm_Abstract.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\obj\Debug\Uygulama2_Polymorphizm_Abstract.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\obj\Debug\Uygulama2_Polymorphizm_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\obj\Debug\Uygulama2_Polymorphizm_Abstract.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Uygulama2_Polymorphizm_Abstract\Uygulama2_Polymorphizm_Abstract\obj\Debug\Uygulama2_Polymorphizm_Abstract.pdb

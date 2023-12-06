@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\bin\Debug\Diziler5.exe.config
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\bin\Debug\Diziler5.exe
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\bin\Debug\Diziler5.pdb
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\obj\Debug\Diziler5.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\obj\Debug\Diziler5.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\obj\Debug\Diziler5.exe
+C:\Users\user\Desktop\ibb C#\Diziler5\Diziler5\obj\Debug\Diziler5.pdb

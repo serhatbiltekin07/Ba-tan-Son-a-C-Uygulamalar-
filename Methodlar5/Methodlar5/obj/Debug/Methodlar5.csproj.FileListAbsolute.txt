@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\obj\Debug\Methodlar5.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\obj\Debug\Methodlar5.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\bin\Debug\Methodlar5.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\bin\Debug\Methodlar5.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\bin\Debug\Methodlar5.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\obj\Debug\Methodlar5.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Methodlar5\Methodlar5\obj\Debug\Methodlar5.pdb

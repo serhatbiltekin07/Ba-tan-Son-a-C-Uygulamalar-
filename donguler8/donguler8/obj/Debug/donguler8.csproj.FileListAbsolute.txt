@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\obj\Debug\donguler8.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\obj\Debug\donguler8.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\bin\Debug\donguler8.exe.config
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\bin\Debug\donguler8.exe
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\bin\Debug\donguler8.pdb
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\obj\Debug\donguler8.exe
+C:\Users\user\Desktop\ibb C#\donguler8\donguler8\obj\Debug\donguler8.pdb

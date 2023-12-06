@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\bin\Debug\donuguler4.exe.config
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\bin\Debug\donuguler4.exe
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\bin\Debug\donuguler4.pdb
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\obj\Debug\donuguler4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\obj\Debug\donuguler4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\obj\Debug\donuguler4.exe
+C:\Users\user\Desktop\ibb C#\donuguler4\donuguler4\obj\Debug\donuguler4.pdb

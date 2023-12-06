@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\bin\Debug\donguler9.exe.config
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\bin\Debug\donguler9.exe
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\bin\Debug\donguler9.pdb
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\obj\Debug\donguler9.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\obj\Debug\donguler9.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\obj\Debug\donguler9.exe
+C:\Users\user\Desktop\ibb C#\donguler9\donguler9\obj\Debug\donguler9.pdb

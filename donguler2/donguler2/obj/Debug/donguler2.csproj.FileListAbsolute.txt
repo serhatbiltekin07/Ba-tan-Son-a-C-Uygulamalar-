@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\bin\Debug\donguler2.exe.config
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\bin\Debug\donguler2.exe
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\bin\Debug\donguler2.pdb
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\obj\Debug\donguler2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\obj\Debug\donguler2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\obj\Debug\donguler2.exe
+C:\Users\user\Desktop\Pratikler\donguler2\donguler2\obj\Debug\donguler2.pdb

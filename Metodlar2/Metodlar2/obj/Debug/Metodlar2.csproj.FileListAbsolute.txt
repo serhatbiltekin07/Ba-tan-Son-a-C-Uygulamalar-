@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\bin\Debug\Metodlar2.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\bin\Debug\Metodlar2.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\bin\Debug\Metodlar2.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\obj\Debug\Metodlar2.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\obj\Debug\Metodlar2.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\obj\Debug\Metodlar2.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar2\Metodlar2\obj\Debug\Metodlar2.pdb

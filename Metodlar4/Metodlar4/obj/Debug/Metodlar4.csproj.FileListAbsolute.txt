@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\bin\Debug\Metodlar4.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\bin\Debug\Metodlar4.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\bin\Debug\Metodlar4.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\obj\Debug\Metodlar4.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\obj\Debug\Metodlar4.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\obj\Debug\Metodlar4.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Metodlar4\Metodlar4\obj\Debug\Metodlar4.pdb

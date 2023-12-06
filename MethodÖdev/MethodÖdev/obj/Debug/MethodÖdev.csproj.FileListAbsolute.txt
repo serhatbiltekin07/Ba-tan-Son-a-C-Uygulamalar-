@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\bin\Debug\MethodÖdev.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\bin\Debug\MethodÖdev.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\bin\Debug\MethodÖdev.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\obj\Debug\MethodÖdev.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\obj\Debug\MethodÖdev.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\obj\Debug\MethodÖdev.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\MethodÖdev\MethodÖdev\obj\Debug\MethodÖdev.pdb

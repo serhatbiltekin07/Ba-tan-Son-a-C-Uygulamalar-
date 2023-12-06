@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\obj\Debug\Class5.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\obj\Debug\Class5.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\bin\Debug\Class5.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\bin\Debug\Class5.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\bin\Debug\Class5.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\obj\Debug\Class5.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class5\Class5\obj\Debug\Class5.pdb

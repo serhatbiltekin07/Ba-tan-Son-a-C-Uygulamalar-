@@ -1,0 +1,7 @@
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\bin\Debug\Class2.exe.config
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\bin\Debug\Class2.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\bin\Debug\Class2.pdb
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\obj\Debug\Class2.csproj.AssemblyReference.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\obj\Debug\Class2.csproj.CoreCompileInputs.cache
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\obj\Debug\Class2.exe
+C:\Users\aytek\OneDrive\Masaüstü\İBB C#\Class2\Class2\obj\Debug\Class2.pdb

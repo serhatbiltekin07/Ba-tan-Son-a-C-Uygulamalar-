@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\bin\Debug\degiskenler.exe.config
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\bin\Debug\degiskenler.exe
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\bin\Debug\degiskenler.pdb
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\obj\Debug\degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\obj\Debug\degiskenler.exe
+C:\Users\user\Desktop\ibb C#\degiskenler\degiskenler\obj\Debug\degiskenler.pdb

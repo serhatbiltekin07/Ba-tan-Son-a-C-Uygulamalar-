@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\bin\Debug\random_ornek4.exe.config
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\bin\Debug\random_ornek4.exe
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\bin\Debug\random_ornek4.pdb
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\obj\Debug\random_ornek4.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\obj\Debug\random_ornek4.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\obj\Debug\random_ornek4.exe
+C:\Users\user\Desktop\ibb C#\random_ornek4\random_ornek4\obj\Debug\random_ornek4.pdb
